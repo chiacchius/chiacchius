@@ -9,4 +9,4 @@ Hello everyone! I'm Matteo Chiacchia, I'm currently pursuing a Master's degree i
 # Funny stats
 Below, some stats of the languages that I have used. <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiacchius&layout=compact&theme=radical&exclude_repo=Music-Learning,Master-s-Degree-Notes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiacchius&layout=compact&theme=radical&exclude_repo=universita)](https://github.com/anuraghazra/github-readme-stats)
