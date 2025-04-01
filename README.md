@@ -1,7 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-Hello everyone! I'm Matteo Chiacchia, I'm currently pursuing a Master's degree in Cybersecurity at "Tor Vergata" University.
-
+Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Engineering at the University of ‘Tor Vergata,’ with a focus on Cybersecurity.
 - 📱 5G technology.
 - 💻 System security.
 - 🌐 Network security.<br>
