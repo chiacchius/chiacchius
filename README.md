@@ -10,10 +10,10 @@ Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Enginee
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true" alt="Github Language Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true&exclude_repo=srsran,MPSMF_CamryUSASales," alt="Github Language Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiacchius&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiacchius&show_icons=true&theme=tokyonight&exclude_repo=repo1,repo2" alt="GitHub Stats">
     </td>
   </tr>
 </table>
