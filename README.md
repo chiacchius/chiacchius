@@ -5,7 +5,6 @@ Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Enginee
 - 💻 System security.
 - 🌐 Network security.<br>
 
-
 <h2 align="center"> My Stats 📊</h2>
 <table align="center">
   <tr>
