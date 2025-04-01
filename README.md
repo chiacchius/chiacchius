@@ -5,7 +5,18 @@ Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Enginee
 - 💻 System security.
 - 🌐 Network security.<br>
 
-# Funny stats
-Below, some stats of the languages that I have used. <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiacchius&layout=donut&theme=radical&exclude_repo=universita)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> My Stats 📊</h2>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true" alt="Github Language Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiacchius&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
+
+****
+
