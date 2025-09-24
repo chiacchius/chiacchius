@@ -9,7 +9,15 @@ Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Enginee
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true" alt="Github Language Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=chiacchius&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true&count_private=true&layout=compact&exclude_repo=MPSMF_CamryUSASales" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiacchius&theme=tokyonight" alt="GitHub Streak">
     </td>
   </tr>
 </table>
