@@ -9,10 +9,10 @@ Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Enginee
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chiacchius&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=chiacchius&theme=tokyonight&show_icons=true&include_all_commits=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true&count_private=true&layout=compact&exclude_repo=MPSMF_CamryUSASales" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiacchius&theme=tokyonight&show_icons=true&layout=compact&exclude_repo=MPSMF_CamryUSASales" alt="Top Languages">
     </td>
   </tr>
   <tr>
@@ -21,9 +21,16 @@ Hi everyone! I’m Matteo Chiacchia, and I am pursuing PhD in Electronic Enginee
     </td>
   </tr>
 </table>
-<br /> 
+<br />
 
-# Languages and Tools
+<!-- Per includere repository private, dovrai:
+1. Forkare il progetto github-readme-stats
+2. Deployare la tua istanza su Vercel
+3. Aggiungere il tuo GitHub Personal Access Token nelle variabili d'ambiente
+4. Modificare l'URL sopra per puntare alla tua istanza personalizzata
+--> 
+
+### Languages and Tools
 
 <br />
 
